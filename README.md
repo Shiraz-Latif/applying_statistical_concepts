@@ -43,25 +43,19 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 **Assignment Due Dates**
 
-| Assessment   | Content                            | Due Dates for DC     | Due Dates for Cohort 8     |
-|--------------|------------------------------------|--------------|--------------|
-| Assignment 1 | Classification (Sessions 1, 2)     | Nov 24 | Dec 15   |
-| Assignment 2 | Regression (Sessions 3, 4)         | Dec 3    |Jan 6   |
-| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | Dec 10   |Jan 12   |
+| Assessment   | Content                            | Due Dates   | 
+|--------------|------------------------------------|--------------|
+| Assignment 1 | Classification (Sessions 1, 2)     | Apr 19 | 
+| Assignment 2 | Regression (Sessions 3, 4)         | Apr 28    |
+| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | May 5   |
 
-### Contacts for DC
-**Questions can be submitted to the _#dc2-help_ channel on Slack**
+### Contacts
+**Questions can be submitted to the _#dc3-help_ channel on Slack**
 * Technical Facilitator: **Julia**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06D4QM7YEA)
-* Learning Support Staff: **Dmytro**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06UR87QWQ7)
+* Learning Support Staff: **Shiraz**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06UZ604VFY)
 * Learning Support Staff: **Vishakh**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U087AAL9Y78)
 * Learning Support Staff: **Anjali**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06V2T9C2P7)
 
-### Contacts for Cohort 8
-**Questions can be submitted to the _#cohort8-help_ channel on Slack**
-* Technical Facilitator: **Julia**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06D4QM7YEA)
-* Learning Support Staff: **Gayathri**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U08R6URRSCT)
-* Learning Support Staff: **Vishakh**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U087AAL9Y78)
-* Learning Support Staff: **Aditya**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U07R9T8MKND)
 
 ### Delivery of the Learning Module
 
